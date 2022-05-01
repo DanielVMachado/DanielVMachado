@@ -8,6 +8,7 @@ I've been learning to code since 2021 after switching career. It started when I 
 * ✉️  You can contact me at [danielmachado96@hotmail.com](mailto:danielmachado96@hotmail.com)
 * 🧠  I'm learning Java and Spring Framework
 * 🤝  I'm open to collaborating on Interesting Projects
+* ⚡  Love cars and adrenaline sports
 
 ### Skills
 
@@ -22,6 +23,7 @@ I've been learning to code since 2021 after switching career. It started when I 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/DanielVMachado" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/daniel-machado-53946ab0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
