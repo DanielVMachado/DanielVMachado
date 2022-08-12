@@ -2,7 +2,7 @@
 Hi 👋 My name is Daniel Machado
 ===============================
 
-I've been learning to code since 2021 after switching career. It started when I found some articles to C language and Python and a passion for backend development started to grow. Currently I am learning JAVA at UpSkill - Porto, Portugal.
+I've been learning to code since 2021 after switching career. It started when I found some articles to C language and Python and a passion for backend development started to grow. Currently I am a full-time Java Developer.
 
 * 🌍  I'm based in Porto, Portugal
 * ✉️  You can contact me at [danielmachado96@hotmail.com](mailto:danielmachado96@hotmail.com)
